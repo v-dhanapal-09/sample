@@ -1,1 +1,1 @@
-print ("Welcome To Cloud")
+print("Welcome To Cloud")
