@@ -1,1 +1,1 @@
-print("Welcome To Cloud")
+Welcome To Cloud
